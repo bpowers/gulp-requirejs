@@ -37,7 +37,9 @@ module.exports = function(opts) {
             _s.write(new File({
                 path: _fName,
                 contents: new Buffer(text)
-            }));
+            }), function() {
+                _s.end();
+            });
         });
     // } catch (err) {
     //     _s.emit('error', err);
