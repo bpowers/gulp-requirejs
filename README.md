@@ -1,6 +1,6 @@
 #gulp-requirejs
 
-[![Dependency Status](https://david-dm.org/robinthrift/gulp-requirejs.png)](https://david-dm.org/robinthrift/gulp-requirejs)
+[![Dependency Status](https://david-dm.org/homer0/gulp-requirejs.png)](https://david-dm.org/robinthrift/gulp-requirejs)
 [![Build Status](https://travis-ci.org/RobinThrift/gulp-requirejs.png?branch=master)](https://travis-ci.org/RobinThrift/gulp-requirejs)
 
 ## Information
